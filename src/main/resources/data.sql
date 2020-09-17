@@ -1,0 +1,5 @@
+insert into shape (shape_id, type, name, geometry_description, x_coordinate, y_coordinate, length, entity_type) values(10001, 'Square', 'Square at 0.00 and 0.00', 'Square has equal sides(Only length) and is axis-aligned', 0.00, 0.00, 2.00, 'SQUARE');
+insert into shape (shape_id, type, name, geometry_description, x_coordinate, y_coordinate, length, entity_type) values(10002, 'Square', 'Square at 2.00 and 2.00', 'Square has equal sides(Only length) and is axis-aligned', 2.00, 2.00, 2.00, 'SQUARE');
+insert into shape (shape_id, type, name, geometry_description, x_coordinate, y_coordinate, length, entity_type) values(10003, 'Square', 'Square at 4.00 and 4.00', 'Square has equal sides(Only length) and is axis-aligned', 4.00, 4.00, 2.00, 'SQUARE');
+--insert into shape (shape_id, type, name, geometry_description) values(10002, 'Rectangle', 'Rectangle', 'Rectangle has Length and Breath and is axis-aligned', 6.00, 6.00, 1.00);
+--insert into shape (shape_id, type, name, geometry_description) values(10003, 'Circle', 'Circle', 'Circle has only radius');
