@@ -9,7 +9,8 @@ Application uses h2 database to run the tests.
 ## Can be run as a Jar
 
 `mvn clean install` generate a jar
-I have also pushed on to docker hub. It can be downloaded from https://hub.docker.com/repository/docker/vadapalli/pupil-technical-test
+I have also pushed it on to docker hub.
+ It can be downloaded from https://hub.docker.com/repository/docker/vadapalli/pupil-technical-test
 
 ### Launching the application using Docker
 
